@@ -4,17 +4,69 @@
 
     <reapack name="JG_Color_Items_By_Position.lua" type="script" desc="Color items by their position.">
       <version name="1.0.0" author="Julius Gass">
-        <source>https://raw.githubusercontent.com/audio-guy/Reaper-Free-Tools/main/Scripts/JG%20Free%20Tools/JG_Color_Items_By_Position.lua</source>
+        <source>https://raw.githubusercontent.com/audio-guy/Reaper-Free-Tools/main/JG_Color_Items_By_Position.lua</source>
       </version>
     </reapack>
 
     <reapack name="JG_Color_Items_Vertically.lua" type="script" desc="Color selected items vertically across tracks.">
       <version name="1.0.0" author="Julius Gass">
-        <source>https://raw.githubusercontent.com/audio-guy/Reaper-Free-Tools/main/Scripts/JG%20Free%20Tools/JG_Color_Items_Vertically.lua</source>
+        <source>https://raw.githubusercontent.com/audio-guy/Reaper-Free-Tools/main/JG_Color_Items_Vertically.lua</source>
       </version>
     </reapack>
 
-    <!-- ... usw. -->
+    <reapack name="JG_Convert_Items_To_Tempo_Map.lua" type="script" desc="Convert selected items to the project tempo map.">
+      <version name="1.0.0" author="Julius Gass">
+        <source>https://raw.githubusercontent.com/audio-guy/Reaper-Free-Tools/main/JG_Convert_Items_To_Tempo_Map.lua</source>
+      </version>
+    </reapack>
+
+    <reapack name="JG_Copy_Timecode_To_Clipboard.lua" type="script" desc="Copy timecode of the playhead to the clipboard.">
+      <version name="1.0.0" author="Julius Gass">
+        <source>https://raw.githubusercontent.com/audio-guy/Reaper-Free-Tools/main/JG_Copy_Timecode_To_Clipboard.lua</source>
+      </version>
+    </reapack>
+
+    <reapack name="JG_Group_Color_Manager.lua" type="script" desc="Manage colors for grouped items and tracks.">
+      <version name="1.0.0" author="Julius Gass">
+        <source>https://raw.githubusercontent.com/audio-guy/Reaper-Free-Tools/main/JG_Group_Color_Manager.lua</source>
+      </version>
+    </reapack>
+
+    <reapack name="JG_Per_Track_Items_Loudness_Normalize.lua" type="script" desc="Normalize item loudness per track.">
+      <version name="1.0.0" author="Julius Gass">
+        <source>https://raw.githubusercontent.com/audio-guy/Reaper-Free-Tools/main/JG_Per_Track_Items_Loudness_Normalize.lua</source>
+      </version>
+    </reapack>
+
+    <reapack name="JG_Rename_Source_Files_To_Item_Names.lua" type="script" desc="Rename source files according to item names.">
+      <version name="1.0.0" author="Julius Gass">
+        <source>https://raw.githubusercontent.com/audio-guy/Reaper-Free-Tools/main/JG_Rename_Source_Files_To_Item_Names.lua</source>
+      </version>
+    </reapack>
+
+    <reapack name="JG_Set_Cursor_To_System_Time.lua" type="script" desc="Set the edit cursor to the current system time.">
+      <version name="1.0.0" author="Julius Gass">
+        <source>https://raw.githubusercontent.com/audio-guy/Reaper-Free-Tools/main/JG_Set_Cursor_To_System_Time.lua</source>
+      </version>
+    </reapack>
+
+    <reapack name="JG_Sort_Items_To_Tracks_By_Prefix.lua" type="script" desc="Sort items to corresponding tracks by prefix.">
+      <version name="1.0.0" author="Julius Gass">
+        <source>https://raw.githubusercontent.com/audio-guy/Reaper-Free-Tools/main/JG_Sort_Items_To_Tracks_By_Prefix.lua</source>
+      </version>
+    </reapack>
+
+    <reapack name="JG_Symmetric_Pan_Selected_Tracks.lua" type="script" desc="Pan selected tracks symmetrically L-R.">
+      <version name="1.0.0" author="Julius Gass">
+        <source>https://raw.githubusercontent.com/audio-guy/Reaper-Free-Tools/main/JG_Symmetric_Pan_Selected_Tracks.lua</source>
+      </version>
+    </reapack>
+
+    <reapack name="JG_Transfer_Item_Cuts_Gaps_And_Fades.lua" type="script" desc="Transfer item cuts, gaps, and fades between tracks.">
+      <version name="1.0.0" author="Julius Gass">
+        <source>https://raw.githubusercontent.com/audio-guy/Reaper-Free-Tools/main/JG_Transfer_Item_Cuts_Gaps_And_Fades.lua</source>
+      </version>
+    </reapack>
 
   </category>
 </index>
