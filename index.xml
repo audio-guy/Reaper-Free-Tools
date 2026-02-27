@@ -2,60 +2,19 @@
 <index version="1" name="JG Free Tools">
   <category name="Scripts/JG Free Tools">
 
-    <reapack name="JG Color Items By Position" type="script" version="1.0.0" author="Julius Gass">
-      <description>Color items by their position.</description>
-      <source file="JG_Color_Items_By_Position.lua" type="github"/>
+    <reapack name="JG_Color_Items_By_Position.lua" type="script" desc="Color items by their position.">
+      <version name="1.0.0" author="Julius Gass">
+        <source>https://raw.githubusercontent.com/audio-guy/Reaper-Free-Tools/main/Scripts/JG%20Free%20Tools/JG_Color_Items_By_Position.lua</source>
+      </version>
     </reapack>
 
-    <reapack name="JG Color Items Vertically" type="script" version="1.0.0" author="Julius Gass">
-      <description>Color selected items vertically across tracks.</description>
-      <source file="JG_Color_Items_Vertically.lua" type="github"/>
+    <reapack name="JG_Color_Items_Vertically.lua" type="script" desc="Color selected items vertically across tracks.">
+      <version name="1.0.0" author="Julius Gass">
+        <source>https://raw.githubusercontent.com/audio-guy/Reaper-Free-Tools/main/Scripts/JG%20Free%20Tools/JG_Color_Items_Vertically.lua</source>
+      </version>
     </reapack>
 
-    <reapack name="JG Convert Items To Tempo Map" type="script" version="1.0.0" author="Julius Gass">
-      <description>Convert selected items to the project tempo map.</description>
-      <source file="JG_Convert_Items_To_Tempo_Map.lua.lua" type="github"/>
-    </reapack>
-
-    <reapack name="JG Copy Timecode To Clipboard" type="script" version="1.0.0" author="Julius Gass">
-      <description>Copy timecode of the playhead to the clipboard.</description>
-      <source file="JG_Copy_Timecode_To_Clipboard.lua.lua" type="github"/>
-    </reapack>
-
-    <reapack name="JG Group Color Manager" type="script" version="1.0.0" author="Julius Gass">
-      <description>Manage colors for grouped items and tracks.</description>
-      <source file="JG_Group_Color_Manager.lua" type="github"/>
-    </reapack>
-
-    <reapack name="JG Per Track Items Loudness Normalize" type="script" version="1.0.0" author="Julius Gass">
-      <description>Normalize item loudness per track.</description>
-      <source file="JG_Per_Track_Items_Loudness_Normalize.lua" type="github"/>
-    </reapack>
-
-    <reapack name="JG Rename Source Files To Item Names" type="script" version="1.0.0" author="Julius Gass">
-      <description>Rename source files according to item names.</description>
-      <source file="JG_Rename_Source_Files_To_Item_Names.lua" type="github"/>
-    </reapack>
-
-    <reapack name="JG Set Cursor To System Time" type="script" version="1.0.0" author="Julius Gass">
-      <description>Set the edit cursor to the current system time.</description>
-      <source file="JG_Set_Cursor_To_System_Time.lua" type="github"/>
-    </reapack>
-
-    <reapack name="JG Sort Items To Tracks By Prefix" type="script" version="1.0.0" author="Julius Gass">
-      <description>Sort items to corresponding tracks by prefix.</description>
-      <source file="JG_Sort_Items_To_Tracks_By_Prefix.lua" type="github"/>
-    </reapack>
-
-    <reapack name="JG Symmetric Pan Selected Tracks" type="script" version="1.0.0" author="Julius Gass">
-      <description>Pan selected tracks symmetrically L-R.</description>
-      <source file="JG_Symmetric_Pan_Selected_Tracks.lua" type="github"/>
-    </reapack>
-
-    <reapack name="JG Transfer Item Cuts Gaps And Fades" type="script" version="1.0.0" author="Julius Gass">
-      <description>Transfer item cuts, gaps, and fades between tracks.</description>
-      <source file="JG_Transfer_Item_Cuts_Gaps_And_Fades.lua" type="github"/>
-    </reapack>
+    <!-- ... usw. -->
 
   </category>
 </index>
