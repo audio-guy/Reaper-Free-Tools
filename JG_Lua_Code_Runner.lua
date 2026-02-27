@@ -114,7 +114,9 @@ local function loop()
   if open then
     reaper.defer(loop)
   else
-    reaper.ImGui_DestroyContext(ctx)
+    if reaper.ImGui_DestroyContext then
+      reaper.ImGui_DestroyContext(ctx)
+    end
   end
 end
 
